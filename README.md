@@ -37,7 +37,7 @@ Both qualitative and quantitative comparisons demonstrate that our ReInversion m
 ### Pseudo Code
 Our method is quite straight-forward and effective, here is a pseudo code version of it:
 ``` python
-Inputs: X_src, X_ref, Mask, t_tau, eta
+# Inputs: X_src, X_ref, Mask, t_tau, eta
 
 X = torch.randn_like(X_src)
 
