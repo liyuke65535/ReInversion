@@ -52,7 +52,7 @@ Figure 2: Comparison of inversion-based editing methods and our ReInversion.
 
 ### Visual Results
 
-![Method](assets/display/fig_4_qualitative_compare.png)
+![Method](assets/display/fig_4_qualitative_compare_01.png)
 Figure 4: Qualitative comparisons with SOTA inversion-based methods. Our ReInversion (the last column) demonstrates superior performance compared to existing flow-based inversion methods.
 
 
