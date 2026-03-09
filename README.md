@@ -58,6 +58,15 @@ Figure 4: Qualitative comparisons with SOTA inversion-based methods. Our ReInver
 
 
 
+### Algorithm: ReInversion with MSD
+<img src="assets/display/Algorithm_1.png" alt="Algorithm" width="70%"/><br>
+Algorithm 1: ReInversion performs a two-stage inversion process, first conditioned on the source image and then guided by the reference image with a masked update. 
+Despite its simplicity, this formulation efficiently achieves high-quality inversion while supporting flexible masked editing.
+
+
+
+
+
 
 ### Pseudo Code
 Our method is quite straight-forward and effective, here is a pseudo code version of it:
@@ -83,9 +92,6 @@ for t in (timesteps):
 return X
 ```
 
-### Algorithm: ReInversion with MSD
-
-![Algorithm](assets/display/algorithm_1.png)
 
 See more details in our <a href='https://arxiv.org/pdf/2512.01382'>paper</a>.
 
