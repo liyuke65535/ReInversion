@@ -83,6 +83,10 @@ for t in (timesteps):
 return X
 ```
 
+### Algorithm: ReInversion with MSD
+
+![Algorithm](assets/display/algorithm_1.png)
+
 See more details in our <a href='https://arxiv.org/pdf/2512.01382'>paper</a>.
 
 
