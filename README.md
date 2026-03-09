@@ -41,7 +41,7 @@ Both qualitative and quantitative comparisons demonstrate that our ReInversion m
 ### ReInversion
 
 <!-- ![Method](assets/display/fig_2_method2_01.png) -->
-![Method](assets/display/fig_2_method2_arxiv_eccv_01.png)
+![Method](assets/display/fig_2_method_arxiv_eccv_01.png)
 Figure 2: Comparison of inversion-based editing methods and our ReInversion. 
 (**a**) Conventional inversion maps an source image to its approximate start noise and generates by a text guidance. 
 (**b**) Inversion for EIE naively replaces the text condition with an exemplar, which leads to noise drift and undesirable edit result. 
